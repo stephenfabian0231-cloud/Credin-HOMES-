@@ -1,0 +1,5 @@
+# Local secrets and runtime files
+.env
+.env.*
+!.env.example
+npm-debug.log*
